@@ -1,4 +1,10 @@
 [
-  "https://wjvpn.fun",
-  "https://wjvpn.fun"
+  {
+    "checkUrl": "https://wjvpn.fun",
+    "jumpUrl": "https://wjvpn.fun"
+  },
+  {
+    "checkUrl": "https://wjvpn.fun",
+    "jumpUrl": "https://wjvpn.fun"
+  }
 ]
